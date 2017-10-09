@@ -1,5 +1,5 @@
 ### Ruby images
-> Ruby application (or command line) that create an image based on other images.  
+> Ruby application (or command line) that creates an image based on other images.  
 
 I used the RMagick library.  
 
