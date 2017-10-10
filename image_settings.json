@@ -7,37 +7,37 @@
       "url": "url",
       "position_x": "position_x",
       "position_y": "position_y",
-      "%_in_finale": {
+      "part_of_finale": {
         "height": "height",
-        "width": "width",
-      },
+        "width": "width"
+      }
     },
     {
       "url": "url",
       "position_x": "position_x",
       "position_y": "position_y",
-      "%_in_finale": {
+      "part_of_finale": {
         "height": "height",
-        "width": "width",
-      },
+        "width": "width"
+      }
     },
     {
       "url": "url",
       "position_x": "position_x",
       "position_y": "position_y",
-      "%_in_finale": {
+      "part_of_finale": {
         "height": "height",
-        "width": "width",
-      },
+        "width": "width"
+      }
     },
     {
       "url": "url",
       "position_x": "position_x",
       "position_y": "position_y",
-      "%_in_finale": {
+      "part_of_finale": {
         "height": "height",
-        "width": "width",
-      },
-    },
+        "width": "width"
+      }
+    }
   ]
 }
