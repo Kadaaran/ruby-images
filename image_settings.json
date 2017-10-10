@@ -1,0 +1,43 @@
+{
+  "weight": "value_ko",
+  "height": "value",
+  "width": "value",
+  "mosaique": [
+    {
+      "url": "url",
+      "position_x": "position_x",
+      "position_y": "position_y",
+      "%_in_finale": {
+        "height": "height",
+        "width": "width",
+      },
+    },
+    {
+      "url": "url",
+      "position_x": "position_x",
+      "position_y": "position_y",
+      "%_in_finale": {
+        "height": "height",
+        "width": "width",
+      },
+    },
+    {
+      "url": "url",
+      "position_x": "position_x",
+      "position_y": "position_y",
+      "%_in_finale": {
+        "height": "height",
+        "width": "width",
+      },
+    },
+    {
+      "url": "url",
+      "position_x": "position_x",
+      "position_y": "position_y",
+      "%_in_finale": {
+        "height": "height",
+        "width": "width",
+      },
+    },
+  ]
+}
