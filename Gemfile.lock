@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_magick (4.8.0)
+    rmagick (2.13.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mini_magick
+  rmagick (~> 2.13.1)
+
+BUNDLED WITH
+   1.15.4
